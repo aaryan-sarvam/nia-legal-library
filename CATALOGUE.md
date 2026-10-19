@@ -1,9 +1,9 @@
 # Catalogue
 
-Every document in this repository: 99 files. The source of each, with its sha256, is in [sources.json](sources.json).
+Every document in this repository: 120 files. The source of each, with its sha256, is in [sources.json](sources.json).
 
 
-## Acts (14)
+## Acts (20)
 
 | File | Act | Act No. | Status | Text as on | Source |
 |---|---|---|---|---|---|
@@ -21,6 +21,12 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [act-crpc-1973.pdf](acts/act-crpc-1973.pdf) | The Code of Criminal Procedure, 1973 | 2 of 1974 | repealed w.e.f. 1 July 2024 by BNSS s. 531; governs investigations, trials and applications pending before that date (see BNSS s. 531(2)) |  | India Code consolidated text as republished by WIPO Lex |
 | [act-ipc-1860.pdf](acts/act-ipc-1860.pdf) | The Indian Penal Code, 1860 | 45 of 1860 | repealed w.e.f. 1 July 2024 by BNS s. 358; governs offences committed before that date |  | India Code consolidated text as republished by WIPO Lex |
 | [act-evidence-act-1872.pdf](acts/act-evidence-act-1872.pdf) | The Indian Evidence Act, 1872 | 1 of 1872 | repealed w.e.f. 1 July 2024 by BSA s. 170; governs proceedings commenced before that date |  | India Code consolidated text as republished by WIPO Lex |
+| [act-atomic-energy-1962.pdf](acts/act-atomic-energy-1962.pdf) | The Atomic Energy Act, 1962 | 33 of 1962 | in force |  | Copy supplied by NIA |
+| [act-anti-hijacking-2016.pdf](acts/act-anti-hijacking-2016.pdf) | The Anti-Hijacking Act, 2016 | 30 of 2016 | in force |  | Copy supplied by NIA |
+| [act-sua-civil-aviation-1982.pdf](acts/act-sua-civil-aviation-1982.pdf) | The Suppression of Unlawful Acts against Safety of Civil Aviation Act, 1982 | 66 of 1982 | in force |  | Copy supplied by NIA |
+| [act-saarc-terrorism-1993.pdf](acts/act-saarc-terrorism-1993.pdf) | The SAARC Convention (Suppression of Terrorism) Act, 1993 | 36 of 1993 | in force |  | Copy supplied by NIA |
+| [act-sua-maritime-2002.pdf](acts/act-sua-maritime-2002.pdf) | The Suppression of Unlawful Acts against Safety of Maritime Navigation and Fixed Platforms on Continental Shelf Act, 2002 | 69 of 2002 | in force |  | Copy supplied by NIA |
+| [act-wmd-2005.pdf](acts/act-wmd-2005.pdf) | The Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005 | 21 of 2005 | in force |  | Copy supplied by NIA |
 
 ## Amendment Acts (4)
 
@@ -31,7 +37,7 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [nia-uapa-amendment-act-2012.pdf](amendments/nia-uapa-amendment-act-2012.pdf) | The Unlawful Activities (Prevention) Amendment Act, 2012 (NIA's copy) | National Investigation Agency (nia.gov.in) |
 | [nia-uapa-amendment-act-2019.pdf](amendments/nia-uapa-amendment-act-2019.pdf) | The Unlawful Activities (Prevention) Amendment Act, 2019 (NIA's copy) — individuals as terrorists, Fourth Schedule | National Investigation Agency (nia.gov.in) |
 
-## Rules, orders and schedules (8)
+## Rules, orders and schedules (9)
 
 | File | Title | Source |
 |---|---|---|
@@ -43,6 +49,7 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [nia-uapa-review-committee-rules-2004.pdf](rules-orders-schedules/nia-uapa-review-committee-rules-2004.pdf) | Qualifications for the Members of the Review Committee Rules, 2004 | National Investigation Agency (nia.gov.in) |
 | [nia-forfeited-property-price-rules-2005.pdf](rules-orders-schedules/nia-forfeited-property-price-rules-2005.pdf) | The Determination of Price of Forfeited Property Rules, 2005 | National Investigation Agency (nia.gov.in) |
 | [nia-ficn-investigation-rules-2013.pdf](rules-orders-schedules/nia-ficn-investigation-rules-2013.pdf) | Investigation of High-Quality Counterfeit Indian Currency Offences Rules, 2013 | National Investigation Agency (nia.gov.in) |
+| [nia-manner-of-constitution-rules-2008.pdf](rules-orders-schedules/nia-manner-of-constitution-rules-2008.pdf) | The National Investigation Agency (Manner of Constitution) Rules, 2008 — G.S.R. 3015(E), 31 Dec 2008 | Copy supplied by NIA |
 
 ## NIA publications (10)
 
@@ -59,7 +66,7 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [nia-legal-bulletin-issue-8.pdf](nia-publications/nia-legal-bulletin-issue-8.pdf) | NIA Legal Bulletin, Issue 8 | National Investigation Agency (nia.gov.in) |
 | [nia-legal-bulletin-issue-9.pdf](nia-publications/nia-legal-bulletin-issue-9.pdf) | NIA Legal Bulletin, Issue 9 | National Investigation Agency (nia.gov.in) |
 
-## Judgments — Supreme Court (60)
+## Judgments — Supreme Court (66)
 
 | File | Case | Citation | Court and bench | Date | Topics |
 |---|---|---|---|---|---|
@@ -68,6 +75,7 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [sc-1994-hitendra-vishnu-thakur.pdf](judgments/supreme-court/sc-1994-hitendra-vishnu-thakur.pdf) | Hitendra Vishnu Thakur and Ors. v. State of Maharashtra and Ors. | 1994 INSC 237; [1994] Supp. 1 SCR 360; (1994) 4 SCC 602 | Supreme Court; Dr. A.S. Anand*, Faizan Uddin JJ. | 1994-07-12 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
 | [sc-1994-sanjay-dutt.pdf](judgments/supreme-court/sc-1994-sanjay-dutt.pdf) | Sanjay Dutt v. The State through C.B.I. Bombay | 1994 INSC 371; [1994] Supp. 3 SCR 263; (1994) 5 SCC 410 | Supreme Court (Constitution Bench, five judges); A.M. Ahmadi CJI, J.S. Verma*, P.B. Sawant, B.P. Jeevan Reddy, N.P. Singh JJ. | 1994-09-09 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
 | [sc-1994-dolat-ram.pdf](judgments/supreme-court/sc-1994-dolat-ram.pdf) | Dolat Ram and Ors. v. The State of Haryana | 1994 INSC 548; [1994] Supp. 6 SCR 69; (1995) 1 SCC 349 | Supreme Court; A.S. Anand, M.K. Mukherjee | 1994-11-24 | [setting-aside-and-cancellation](topics/setting-aside-and-cancellation.md) |
+| [sc-1996-shaheen-welfare-association.pdf](judgments/supreme-court/sc-1996-shaheen-welfare-association.pdf) | Shaheen Welfare Association v. Union of India | (1996) 2 SCC 616 | Supreme Court; A.M. Ahmadi CJI, Sujata V. Manohar J. | 1996-02-27 | [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
 | [sc-2001-uday-mohanlal-acharya.pdf](judgments/supreme-court/sc-2001-uday-mohanlal-acharya.pdf) | Uday Mohanlal Acharya v. State of Maharashtra | 2001 INSC 184; [2001] 2 SCR 878; (2001) 5 SCC 453 | Supreme Court (three judges); G.B. Pattanaik*, U.C. Banerjee, B.N. Agrawal (partly dissenting) JJ. | 2001-03-29 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
 | [sc-2001-puran.pdf](judgments/supreme-court/sc-2001-puran.pdf) | Puran etc. etc. v. Rambilas and Anr. etc. etc. | 2001 INSC 251; [2001] 3 SCR 432; (2001) 6 SCC 338 | Supreme Court; M.B. Shah, S.N. Variava* | 2001-05-03 | [setting-aside-and-cancellation](topics/setting-aside-and-cancellation.md) |
 | [sc-2005-navjot-sandhu.pdf](judgments/supreme-court/sc-2005-navjot-sandhu.pdf) | State (N.C.T. of Delhi) v. Navjot Sandhu @ Afsan Guru | 2005 INSC 333; [2005] Supp. 2 SCR 79; (2005) 11 SCC 600 | Supreme Court; P. Venkatarama Reddi*, P.P. Naolekar | 2005-08-04 | [evidence](topics/evidence.md) |
@@ -92,6 +100,7 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [sc-2020-tofan-singh.pdf](judgments/supreme-court/sc-2020-tofan-singh.pdf) | Tofan Singh v. State of Tamil Nadu | 2020 INSC 620; [2020] 12 SCR 583; (2021) 4 SCC 1 | Supreme Court (three judges); R.F. Nariman*, Navin Sinha, Indira Banerjee (dissenting) | 2020-10-29 | [evidence](topics/evidence.md) |
 | [sc-2021-ka-najeeb.pdf](judgments/supreme-court/sc-2021-ka-najeeb.pdf) | Union of India v. K.A. Najeeb | 2021 INSC 50; [2021] 1 SCR 443; (2021) 3 SCC 713 | Supreme Court (three judges); N.V. Ramana CJI, Surya Kant*, Aniruddha Bose JJ. (*author) | 2021-02-01 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
 | [sc-2021-fakhrey-alam.pdf](judgments/supreme-court/sc-2021-fakhrey-alam.pdf) | Fakhrey Alam v. State of Uttar Pradesh | 2021 INSC 183; [2021] 2 SCR 1000 | Supreme Court; Sanjay Kishan Kaul, R. Subhash Reddy JJ. | 2021-03-15 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
+| [sc-2021-sudesh-kedia.pdf](judgments/supreme-court/sc-2021-sudesh-kedia.pdf) | Sudesh Kedia v. Union of India | 2021 INSC 245; (2021) 4 SCC 704 | Supreme Court; L. Nageswara Rao*, S. Ravindra Bhat | 2021-04-09 | [bail-under-uapa](topics/bail-under-uapa.md) |
 | [sc-2021-ramesh-bhavan-rathod.pdf](judgments/supreme-court/sc-2021-ramesh-bhavan-rathod.pdf) | Ramesh Bhavan Rathod v. Vishanbhai Hirabhai Makwana (Koli) & Another | 2021 INSC 265; [2021] 7 SCR 17; (2021) 6 SCC 230 | Supreme Court; D.Y. Chandrachud, M.R. Shah JJ. | 2021-04-20 | [parity](topics/parity.md) |
 | [sc-2021-gautam-navlakha-v-nia.pdf](judgments/supreme-court/sc-2021-gautam-navlakha-v-nia.pdf) | Gautam Navlakha v. National Investigation Agency | 2021 INSC 295; [2021] 5 SCR 87 | Supreme Court; Uday Umesh Lalit, K.M. Joseph JJ. | 2021-05-12 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
 | [sc-2021-thwaha-fasal.pdf](judgments/supreme-court/sc-2021-thwaha-fasal.pdf) | Thwaha Fasal v. Union of India | 2021 INSC 688; [2021] 8 SCR 797 | Supreme Court; Ajay Rastogi, Abhay S. Oka JJ. | 2021-10-28 | [bail-under-uapa](topics/bail-under-uapa.md), [membership-offences](topics/membership-offences.md) |
@@ -120,14 +129,26 @@ Every document in this repository: 99 files. The source of each, with its sha256
 | [sc-2024-jalaluddin-khan.pdf](judgments/supreme-court/sc-2024-jalaluddin-khan.pdf) | Jalaluddin Khan v. Union of India | 2024 INSC 604; [2024] 8 SCR 633 | Supreme Court; Abhay S. Oka*, Augustine George Masih JJ. (*author) | 2024-08-13 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
 | [sc-2024-1382-prisons-s479-bnss.pdf](judgments/supreme-court/sc-2024-1382-prisons-s479-bnss.pdf) | In Re: Inhuman Conditions in 1382 Prisons — order on s. 479 BNSS (annexed to the MHA advisory of 17.10.2024) | W.P.(C) No. 406/2013, order dated 23.08.2024 | Supreme Court; Hima Kohli, Sandeep Mehta JJ. | 2024-08-23 | [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
 | [sc-2024-fuleshwar-gope.pdf](judgments/supreme-court/sc-2024-fuleshwar-gope.pdf) | Fuleshwar Gope v. Union of India & Ors. | 2024 INSC 718; [2024] 10 SCR 315 | Supreme Court; C.T. Ravikumar, Sanjay Karol* | 2024-09-23 | [sanction-courts-and-appeals](topics/sanction-courts-and-appeals.md) |
+| [sc-2025-tapas-kumar-palit.pdf](judgments/supreme-court/sc-2025-tapas-kumar-palit.pdf) | Tapas Kumar Palit v. State of Chhattisgarh | 2025 INSC 222; [2025] 2 SCR 630; Crl.A. 738/2025 | Supreme Court; J.B. Pardiwala, R. Mahadevan JJ. | 2025-02-14 | [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
+| [sc-2025-uoi-v-saleem-khan.pdf](judgments/supreme-court/sc-2025-uoi-v-saleem-khan.pdf) | Union of India v. Saleem Khan | 2025 INSC 1008; [2025] 8 SCR 2050; Crl.A. 3644-3645/2025 | Supreme Court; Vikram Nath*, K.V. Viswanathan JJ. | 2025-08-20 | [parity](topics/parity.md) |
 | [sc-2026-gulfisha-fatima.pdf](judgments/supreme-court/sc-2026-gulfisha-fatima.pdf) | Gulfisha Fatima v. State (Govt. of NCT of Delhi) | 2026 INSC 2; [2026] 1 SCR 609 | Supreme Court; Aravind Kumar*, N.V. Anjaria JJ. (*author) | 2026-01-05 | [bail-under-uapa](topics/bail-under-uapa.md), [parity](topics/parity.md) |
 | [sc-2026-syed-iftikhar-andrabi-v-nia.pdf](judgments/supreme-court/sc-2026-syed-iftikhar-andrabi-v-nia.pdf) | Syed Iftikhar Andrabi v. National Investigation Agency, Jammu | 2026 INSC 503 | Supreme Court; B.V. Nagarathna, Ujjal Bhuyan* JJ. (*author) | 2026-05-18 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
+| [sc-2026-tasleem-ahmed-reference-order.pdf](judgments/supreme-court/sc-2026-tasleem-ahmed-reference-order.pdf) | Tasleem Ahmed v. State (Govt. of NCT of Delhi) — reference order | SLP (Crl.) No. 2867/2026, order dated 22 May 2026 | Supreme Court; Aravind Kumar, Prasanna B. Varale JJ. | 2026-05-22 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
 | [sc-2026-pooja-ramesh-singh.pdf](judgments/supreme-court/sc-2026-pooja-ramesh-singh.pdf) | Pooja Ramesh Singh v. Jammu and Kashmir Bank Ltd. & Another | 2026 INSC 668; [2026] 7 SCR 571 | Supreme Court; P.S. Narasimha, Alok Aradhe JJ. | 2026-07-02 | [citing-judgments](topics/citing-judgments.md) |
+| [sc-2026-momin-moiuddin.pdf](judgments/supreme-court/sc-2026-momin-moiuddin.pdf) | State of Maharashtra v. Momin Moiuddin Gulam Hasan @ Moin Mistri | 2026 INSC 1021; SLP (Crl.) 12932/2024 | Supreme Court; Shree Chandrashekhar*, Prashant Kumar Mishra JJ. | 2026-09-21 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
 
-## Judgments — Delhi High Court (3)
+## Judgments — Delhi High Court (11)
 
 | File | Case | Citation | Court and bench | Date | Topics |
 |---|---|---|---|---|---|
 | [dhc-2018-syed-shahid-yousuf-v-nia.pdf](judgments/high-courts/delhi/dhc-2018-syed-shahid-yousuf-v-nia.pdf) | Syed Shahid Yousuf v. National Investigation Agency | Crl.A. 426/2018 | Delhi High Court (division bench); S. Muralidhar, I.S. Mehta JJ. | 2018-05-31 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
 | [dhc-2023-zeeshan-qamar-v-state.pdf](judgments/high-courts/delhi/dhc-2023-zeeshan-qamar-v-state.pdf) | Zeeshan Qamar v. State (NCT of Delhi) | Crl.A. 405/2021; 2023/DHC/001361 | Delhi High Court (division bench) | 2023-02-24 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
+| [dhc-2024-oma-salam-v-nia.pdf](judgments/high-courts/delhi/dhc-2024-oma-salam-v-nia.pdf) | O.M.A. Salam v. National Investigation Agency | CRL.A. 564/2024 | Delhi High Court (division bench); Prathiba M. Singh*, Amit Sharma JJ. | 2024-08-30 | [interim-and-medical-bail](topics/interim-and-medical-bail.md) |
+| [dhc-2024-jagtar-singh-johal-v-nia.pdf](judgments/high-courts/delhi/dhc-2024-jagtar-singh-johal-v-nia.pdf) | Jagtar Singh Johal @ Jaggi v. National Investigation Agency (and connected appeals) | CRL.A. 493/2023 and connected; CRL.A. 569/2024, 577/2024 | Delhi High Court (division bench); Prathiba M. Singh*, Amit Sharma JJ. | 2024-09-18 | [bail-under-uapa](topics/bail-under-uapa.md), [sanction-courts-and-appeals](topics/sanction-courts-and-appeals.md) |
+| [dhc-2025-as-ismail-v-nia.pdf](judgments/high-courts/delhi/dhc-2025-as-ismail-v-nia.pdf) | A.S. Ismail v. National Investigation Agency | CRL.A. 100/2025 | Delhi High Court (division bench); Subramonium Prasad*, Harish Vaidyanathan Shankar JJ. | 2025-05-13 | [interim-and-medical-bail](topics/interim-and-medical-bail.md) |
+| [dhc-2026-khuram-parvez-v-nia.pdf](judgments/high-courts/delhi/dhc-2026-khuram-parvez-v-nia.pdf) | Khuram Parvez v. National Investigation Agency | CRL.A. 1234/2024 | Delhi High Court (division bench); Navin Chawla*, Ravinder Dudeja JJ. | 2026-06-10 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
 | [dhc-2026-jasir-bilal-wani-v-nia.pdf](judgments/high-courts/delhi/dhc-2026-jasir-bilal-wani-v-nia.pdf) | Jasir Bilal Wani @ Danish v. National Investigation Agency | Crl.A. 444/2026 | Delhi High Court (division bench); Prathiba M. Singh, Vikas Mahajan JJ. | 2026-08-18 | [default-bail-and-extension](topics/default-bail-and-extension.md) |
+| [dhc-2026-mohammad-saqib-v-nia.pdf](judgments/high-courts/delhi/dhc-2026-mohammad-saqib-v-nia.pdf) | Mohammad Saqib @ Saqib Iftekar v. National Investigation Agency | CRL.A. 676/2024 | Delhi High Court (division bench); Navin Chawla*, Ravinder Dudeja JJ. | 2026-09-14 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
+| [dhc-2026-farhan-ansar-suse-v-nia.pdf](judgments/high-courts/delhi/dhc-2026-farhan-ansar-suse-v-nia.pdf) | Farhan Ansar Suse v. National Investigation Agency & Ors. | CRL.A. 777/2026 | Delhi High Court (division bench); Prathiba M. Singh*, Vikas Mahajan JJ. | 2026-09-17 | [interim-and-medical-bail](topics/interim-and-medical-bail.md) |
+| [dhc-2026-naim-v-nia.pdf](judgments/high-courts/delhi/dhc-2026-naim-v-nia.pdf) | Naim @ Mohd. Naeem v. National Investigation Agency | CRL.A. 807/2024 | Delhi High Court (division bench); Navin Chawla*, Ravinder Dudeja JJ. | 2026-09-30 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |
+| [dhc-2026-mohd-shahzad-kamal-v-nia.pdf](judgments/high-courts/delhi/dhc-2026-mohd-shahzad-kamal-v-nia.pdf) | Mohd Shahzad Kamal v. National Investigation Agency | CRL.A. 761/2024 | Delhi High Court (division bench); Navin Chawla*, Arun Bhardwaj JJ. | 2026-10-01 | [bail-under-uapa](topics/bail-under-uapa.md), [long-custody-and-speedy-trial](topics/long-custody-and-speedy-trial.md) |

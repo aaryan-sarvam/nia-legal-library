@@ -1,6 +1,6 @@
 # Default bail and extension of the investigation period
 
-19 judgments, oldest first. A judgment can sit under more than one topic. [All topics](../README.md#topics) · [Catalogue](../CATALOGUE.md)
+20 judgments, oldest first. A judgment can sit under more than one topic. [All topics](../README.md#topics) · [Catalogue](../CATALOGUE.md)
 
 | File | Case | Citation | Court and bench | Date | Topics |
 |---|---|---|---|---|---|
@@ -23,3 +23,4 @@
 | [sc-2023-judgebir-singh.pdf](../judgments/supreme-court/sc-2023-judgebir-singh.pdf) | Judgebir Singh @ Jasbir Singh Samra @ Jasbir & Ors. v. National Investigation Agency | 2023 INSC 472; [2023] 6 SCR 1 | Supreme Court; D.Y. Chandrachud CJI, J.B. Pardiwala* J. | 2023-05-01 | [default-bail-and-extension](../topics/default-bail-and-extension.md), [sanction-courts-and-appeals](../topics/sanction-courts-and-appeals.md) |
 | [sc-2024-cbi-v-kapil-wadhawan.pdf](../judgments/supreme-court/sc-2024-cbi-v-kapil-wadhawan.pdf) | Central Bureau of Investigation v. Kapil Wadhawan & Another | 2024 INSC 58; [2024] 1 SCR 677 | Supreme Court; Bela M. Trivedi*, Pankaj Mithal JJ. (*author) | 2024-01-24 | [default-bail-and-extension](../topics/default-bail-and-extension.md) |
 | [dhc-2026-jasir-bilal-wani-v-nia.pdf](../judgments/high-courts/delhi/dhc-2026-jasir-bilal-wani-v-nia.pdf) | Jasir Bilal Wani @ Danish v. National Investigation Agency | Crl.A. 444/2026 | Delhi High Court (division bench); Prathiba M. Singh, Vikas Mahajan JJ. | 2026-08-18 | [default-bail-and-extension](../topics/default-bail-and-extension.md) |
+| [sc-2026-momin-moiuddin.pdf](../judgments/supreme-court/sc-2026-momin-moiuddin.pdf) | State of Maharashtra v. Momin Moiuddin Gulam Hasan @ Moin Mistri | 2026 INSC 1021; SLP (Crl.) 12932/2024 | Supreme Court; Shree Chandrashekhar*, Prashant Kumar Mishra JJ. | 2026-09-21 | [default-bail-and-extension](../topics/default-bail-and-extension.md) |
