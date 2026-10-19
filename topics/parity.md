@@ -1,0 +1,10 @@
+# Parity between co-accused
+
+4 judgments, oldest first. A judgment can sit under more than one topic. [All topics](../README.md#topics) · [Catalogue](../CATALOGUE.md)
+
+| File | Case | Citation | Court and bench | Date | Topics |
+|---|---|---|---|---|---|
+| [sc-2014-neeru-yadav.pdf](../judgments/supreme-court/sc-2014-neeru-yadav.pdf) | Neeru Yadav v. State of U.P. and Another | 2014 INSC 841; [2014] 12 SCR 453; (2014) 16 SCC 508 | Supreme Court; Dipak Misra*, Uday Umesh Lalit | 2014-12-16 | [parity](../topics/parity.md), [setting-aside-and-cancellation](../topics/setting-aside-and-cancellation.md) |
+| [sc-2021-ramesh-bhavan-rathod.pdf](../judgments/supreme-court/sc-2021-ramesh-bhavan-rathod.pdf) | Ramesh Bhavan Rathod v. Vishanbhai Hirabhai Makwana (Koli) & Another | 2021 INSC 265; [2021] 7 SCR 17; (2021) 6 SCC 230 | Supreme Court; D.Y. Chandrachud, M.R. Shah JJ. | 2021-04-20 | [parity](../topics/parity.md) |
+| [sc-2023-tarun-kumar.pdf](../judgments/supreme-court/sc-2023-tarun-kumar.pdf) | Tarun Kumar v. Assistant Director, Directorate of Enforcement | 2023 INSC 1006; [2023] 14 SCR 813 | Supreme Court; Aniruddha Bose, Bela M. Trivedi JJ. | 2023-11-20 | [parity](../topics/parity.md) |
+| [sc-2026-gulfisha-fatima.pdf](../judgments/supreme-court/sc-2026-gulfisha-fatima.pdf) | Gulfisha Fatima v. State (Govt. of NCT of Delhi) | 2026 INSC 2; [2026] 1 SCR 609 | Supreme Court; Aravind Kumar*, N.V. Anjaria JJ. (*author) | 2026-01-05 | [bail-under-uapa](../topics/bail-under-uapa.md), [parity](../topics/parity.md) |
