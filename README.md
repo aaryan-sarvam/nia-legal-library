@@ -18,30 +18,32 @@ rules-orders-schedules/           9  Rules, orders and schedules
 nia-publications/                10  NIA publications
 judgments/supreme-court/         66  Judgments — Supreme Court
 judgments/high-courts/delhi/     11  Judgments — Delhi High Court
-topics/                         judgments grouped by subject
+judgments-by-topic/             the same judgments, grouped by subject
 CATALOGUE.md                    every file, one line each
 sources.json                    where each file came from, when, and its sha256
 ```
 
 - **[CATALOGUE.md](CATALOGUE.md)** lists every document with its citation, court, bench and date.
 - **Folders** split documents by type and court. A file lives in exactly one folder.
-- **Topics** group judgments by subject. One judgment can appear under several.
+- **[judgments-by-topic/](judgments-by-topic/)** groups the judgments by subject. One judgment can appear under several.
+- **[judgments/](judgments/)** and **[acts/](acts/)** each have a README: how to read the file names, where the
+  copies come from, and which law applies when.
 
-## Topics
+## Judgments by topic
 
 | Topic | Judgments |
 |---|---|
-| [Bail under UAPA s. 43D(5): the prima facie test](topics/bail-under-uapa.md) | 18 |
-| [Long custody, speedy trial and Article 21](topics/long-custody-and-speedy-trial.md) | 20 |
-| [Default bail and extension of the investigation period](topics/default-bail-and-extension.md) | 20 |
-| [General principles of bail](topics/general-bail-principles.md) | 6 |
-| [Parity between co-accused](topics/parity.md) | 5 |
-| [Interim and medical bail](topics/interim-and-medical-bail.md) | 3 |
-| [Setting aside and cancelling bail](topics/setting-aside-and-cancellation.md) | 9 |
-| [Evidence: confessions and electronic records](topics/evidence.md) | 4 |
-| [Sanction, prior approval, Special Courts and appeals](topics/sanction-courts-and-appeals.md) | 7 |
-| [Membership of a terrorist organisation or unlawful association](topics/membership-offences.md) | 2 |
-| [Citing judgments accurately](topics/citing-judgments.md) | 1 |
+| [Bail under UAPA s. 43D(5): the prima facie test](judgments-by-topic/bail-under-uapa.md) | 18 |
+| [Long custody, speedy trial and Article 21](judgments-by-topic/long-custody-and-speedy-trial.md) | 20 |
+| [Default bail and extension of the investigation period](judgments-by-topic/default-bail-and-extension.md) | 20 |
+| [General principles of bail](judgments-by-topic/general-bail-principles.md) | 6 |
+| [Parity between co-accused](judgments-by-topic/parity.md) | 5 |
+| [Interim and medical bail](judgments-by-topic/interim-and-medical-bail.md) | 3 |
+| [Setting aside and cancelling bail](judgments-by-topic/setting-aside-and-cancellation.md) | 9 |
+| [Evidence: confessions and electronic records](judgments-by-topic/evidence.md) | 4 |
+| [Sanction, prior approval, Special Courts and appeals](judgments-by-topic/sanction-courts-and-appeals.md) | 7 |
+| [Membership of a terrorist organisation or unlawful association](judgments-by-topic/membership-offences.md) | 2 |
+| [Citing judgments accurately](judgments-by-topic/citing-judgments.md) | 1 |
 
 ## Sources
 
