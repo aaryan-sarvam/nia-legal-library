@@ -1205,5 +1205,75 @@
     "sha256": "af6513069a0982d3c1e67d92b8070b1cd891b527f3ca6725eac75dc78aca007d",
     "url": "https://api.sci.gov.in/jonew/judis/44519.pdf",
     "fetched": "2026-10-16"
+  },
+  {
+    "path": "judgments/supreme-court/sc-2014-arnesh-kumar.pdf",
+    "title": "Arnesh Kumar v. State of Bihar & Anr.",
+    "kind": "judgment",
+    "publisher": "Supreme Court of India (e-SCR), via the Indian Supreme Court Judgments dataset by Dattam Labs (CC-BY-4.0)",
+    "bytes": 472216,
+    "sha256": "f2cf583abca63039b7becd6af0fbb5add6ae3e99078ec7ae9a530ce089dfe66b",
+    "url": "https://indian-supreme-court-judgments.s3.ap-south-1.amazonaws.com/data/pdf/year=2014/english/2014_8_128_143_EN.pdf",
+    "fetched": "2026-10-22"
+  },
+  {
+    "path": "judgments/supreme-court/sc-2023-md-asfak-alam.pdf",
+    "title": "Md. Asfak Alam v. The State of Jharkhand & Anr.",
+    "kind": "judgment",
+    "publisher": "Supreme Court of India (e-SCR), via the Indian Supreme Court Judgments dataset by Dattam Labs (CC-BY-4.0)",
+    "bytes": 247513,
+    "sha256": "58f74e4090322afa9921681ac76f209bc5ae2e90e6ade398116b8be59836b3aa",
+    "url": "https://indian-supreme-court-judgments.s3.ap-south-1.amazonaws.com/data/pdf/year=2023/english/2023_10_1184_1195_EN.pdf",
+    "fetched": "2026-10-22"
+  },
+  {
+    "path": "judgments/high-courts/delhi/dhc-2024-inder-pal-singh-gaba-v-nia.pdf",
+    "title": "Inder Pal Singh Gaba v. National Investigation Agency",
+    "kind": "judgment",
+    "publisher": "Delhi High Court (delhihighcourt.nic.in)",
+    "bytes": 559508,
+    "sha256": "9f4dbcc9a1fb7921573b63d68ba098d7be997a7e57a1bac13ba070da7237bbb7",
+    "url": "https://delhihighcourt.nic.in/app/showFileJudgment/SMP29102024CRLW17832024_181532.pdf",
+    "fetched": "2026-10-22"
+  },
+  {
+    "path": "judgments/high-courts/bombay/bhc-2024-saibaba-acquittal.pdf",
+    "title": "Mahesh Kariman Tirki & Ors. v. State of Maharashtra (with G.N. Saibaba v. State of Maharashtra)",
+    "kind": "judgment",
+    "publisher": "The court's own PDF, as hosted by livelaw.in",
+    "bytes": 2384006,
+    "sha256": "be436e3414e8f8ac2d66cbb12a195830095dc2ca3127a1e2d661bce70a22bd79",
+    "url": "https://www.livelaw.in/pdf_upload/gn-saibaba-judgment-526290.pdf",
+    "fetched": "2026-10-22"
+  },
+  {
+    "path": "judgments/supreme-court/sc-2022-mahesh-kariman-tirki-suspension.pdf",
+    "title": "The State of Maharashtra v. Mahesh Kariman Tirki & Ors.",
+    "kind": "judgment",
+    "publisher": "Supreme Court of India (sci.gov.in)",
+    "bytes": 79815,
+    "sha256": "b0b993b3290e8629dc369f0fa9a24176478136f679bbcd944f241e246c3879fe",
+    "url": "https://api.sci.gov.in/supremecourt/2022/33164/33164_2022_2_301_39179_Order_15-Oct-2022.pdf",
+    "fetched": "2026-10-22"
+  },
+  {
+    "path": "judgments/supreme-court/sc-2024-mahesh-kariman-tirki-stay-refused.pdf",
+    "title": "State of Maharashtra v. Mahesh Kariman Tirki & Ors.",
+    "kind": "judgment",
+    "publisher": "The court's own PDF, as hosted by livelaw.in",
+    "bytes": 31803,
+    "sha256": "38745aff4bce65b1d1509ed0b78fdc9b918db3c76ad431a24ab00c97c2707cfc",
+    "url": "https://www.livelaw.in/pdf_upload/1050120242024-03-11-527594.pdf",
+    "fetched": "2026-10-22"
+  },
+  {
+    "path": "judgments/supreme-court/sc-2016-gokarakonda-naga-saibaba-bail.pdf",
+    "title": "Dr. Gokarakonda Naga Saibaba v. State of Maharashtra",
+    "kind": "judgment",
+    "publisher": "The Supreme Court's signed record, as hosted by sabrangindia.in",
+    "bytes": 59558,
+    "sha256": "3fb6b57ed8eeb3efeb43df099b2c92c6c49bdda30375fe797af623ee205cc3a4",
+    "url": "https://sabrangindia.in/wp-content/uploads/2024/03/rop_570065.pdf",
+    "fetched": "2026-10-22"
   }
 ]

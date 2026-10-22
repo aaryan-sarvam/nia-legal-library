@@ -2,13 +2,14 @@
 
 Bail on the ground of long custody and delay in the trial, under Article 21.
 
-20 judgments, oldest first. A judgment can sit under more than one topic. [All topics](README.md) · [Catalogue](../CATALOGUE.md)
+21 judgments, oldest first. A judgment can sit under more than one topic. [All topics](README.md) · [Catalogue](../CATALOGUE.md)
 
 | File | Case | Citation | Court and bench | Date | Topics |
 |---|---|---|---|---|---|
 | [sc-1979-hussainara-khatoon-i.pdf](../judgments/supreme-court/sc-1979-hussainara-khatoon-i.pdf) | Hussainara Khatoon & Others v. Home Secretary, State of Bihar (I) | 1979 INSC 34; [1979] 3 SCR 169 | Supreme Court; P.N. Bhagwati, R.S. Pathak, A.D. Koshal JJ. | 1979-02-12 | [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md) |
 | [sc-1979-hussainara-khatoon-9mar.pdf](../judgments/supreme-court/sc-1979-hussainara-khatoon-9mar.pdf) | Hussainara Khatoon & Others v. Home Secretary, State of Bihar (judgment of 9 March 1979) | 1979 INSC 66; [1979] 3 SCR 532 | Supreme Court; P.N. Bhagwati J. | 1979-03-09 | [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md) |
 | [sc-1996-shaheen-welfare-association.pdf](../judgments/supreme-court/sc-1996-shaheen-welfare-association.pdf) | Shaheen Welfare Association v. Union of India | (1996) 2 SCC 616 | Supreme Court; A.M. Ahmadi CJI, Sujata V. Manohar J. | 1996-02-27 | [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md) |
+| [sc-2016-gokarakonda-naga-saibaba-bail.pdf](../judgments/supreme-court/sc-2016-gokarakonda-naga-saibaba-bail.pdf) | Dr. Gokarakonda Naga Saibaba v. State of Maharashtra | SLP (Crl.) No. 249/2016, order dated 04.04.2016 | Supreme Court; J.S. Khehar, C. Nagappan | 2016-04-04 | [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md) |
 | [sc-2017-umarmiya-ismailmiya-saiyed.pdf](../judgments/supreme-court/sc-2017-umarmiya-ismailmiya-saiyed.pdf) | Umarmiya Ismailmiya Saiyed @ Mamumiya Panju Miya v. State of Gujarat | Crl.A. No. 1702 of 2011, decided 01.02.2017 | Supreme Court; S.A. Bobde, L. Nageswara Rao* | 2017-02-01 | [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md), [sanction-courts-and-appeals](../judgments-by-topic/sanction-courts-and-appeals.md) |
 | [sc-2017-umarmia-mamumia.pdf](../judgments/supreme-court/sc-2017-umarmia-mamumia.pdf) | Umarmia alias Mamumia v. State of Gujarat | Crl.A. No. 1650 of 2011, decided 01.02.2017 | Supreme Court; S.A. Bobde, L. Nageswara Rao* | 2017-02-01 | [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md), [sanction-courts-and-appeals](../judgments-by-topic/sanction-courts-and-appeals.md) |
 | [sc-2021-ka-najeeb.pdf](../judgments/supreme-court/sc-2021-ka-najeeb.pdf) | Union of India v. K.A. Najeeb | 2021 INSC 50; [2021] 1 SCR 443; (2021) 3 SCC 713 | Supreme Court (three judges); N.V. Ramana CJI, Surya Kant*, Aniruddha Bose JJ. (*author) | 2021-02-01 | [bail-under-uapa](../judgments-by-topic/bail-under-uapa.md), [long-custody-and-speedy-trial](../judgments-by-topic/long-custody-and-speedy-trial.md) |

@@ -2,7 +2,7 @@
 
 The public legal documents that the Legal agent in Anveshak, a case assistant for National Investigation
 Agency officers, searches when it answers and drafts: Acts, rules and orders, NIA's own publications, and
-judgments of the Supreme Court and the Delhi High Court. 120 files.
+judgments of the Supreme Court and the High Courts. 127 files.
 
 **This is not an official publication of the National Investigation Agency or of any court.** Each file is a
 copy from the source named against it, kept here for reference. Check the official source
@@ -16,8 +16,9 @@ acts/                            20  Acts
 amendments/                       4  Amendment Acts
 rules-orders-schedules/           9  Rules, orders and schedules
 nia-publications/                10  NIA publications
-judgments/supreme-court/         66  Judgments — Supreme Court
-judgments/high-courts/delhi/     11  Judgments — Delhi High Court
+judgments/supreme-court/         71  Judgments — Supreme Court
+judgments/high-courts/delhi/     12  Judgments — Delhi High Court
+judgments/high-courts/bombay/     1  Judgments — Bombay High Court
 judgments-by-topic/             the same judgments, grouped by subject
 CATALOGUE.md                    every file, one line each
 sources.json                    where each file came from, when, and its sha256
@@ -34,32 +35,36 @@ sources.json                    where each file came from, when, and its sha256
 | Topic | Judgments |
 |---|---|
 | [Bail under UAPA s. 43D(5): the prima facie test](judgments-by-topic/bail-under-uapa.md) | 18 |
-| [Long custody, speedy trial and Article 21](judgments-by-topic/long-custody-and-speedy-trial.md) | 20 |
+| [Long custody, speedy trial and Article 21](judgments-by-topic/long-custody-and-speedy-trial.md) | 21 |
 | [Default bail and extension of the investigation period](judgments-by-topic/default-bail-and-extension.md) | 20 |
+| [Arrest and remand](judgments-by-topic/arrest-and-remand.md) | 3 |
 | [General principles of bail](judgments-by-topic/general-bail-principles.md) | 6 |
 | [Parity between co-accused](judgments-by-topic/parity.md) | 5 |
 | [Interim and medical bail](judgments-by-topic/interim-and-medical-bail.md) | 3 |
 | [Setting aside and cancelling bail](judgments-by-topic/setting-aside-and-cancellation.md) | 9 |
-| [Evidence: confessions and electronic records](judgments-by-topic/evidence.md) | 4 |
-| [Sanction, prior approval, Special Courts and appeals](judgments-by-topic/sanction-courts-and-appeals.md) | 7 |
-| [Membership of a terrorist organisation or unlawful association](judgments-by-topic/membership-offences.md) | 2 |
+| [Evidence: confessions and electronic records](judgments-by-topic/evidence.md) | 5 |
+| [Sanction, prior approval, Special Courts and appeals](judgments-by-topic/sanction-courts-and-appeals.md) | 10 |
+| [Membership of a terrorist organisation or unlawful association](judgments-by-topic/membership-offences.md) | 3 |
 | [Citing judgments accurately](judgments-by-topic/citing-judgments.md) | 1 |
 
 ## Sources
 
 | Source | Files |
 |---|---|
-| Supreme Court of India (e-SCR), via the Indian Supreme Court Judgments dataset by Dattam Labs (CC-BY-4.0) | 55 |
+| Supreme Court of India (e-SCR), via the Indian Supreme Court Judgments dataset by Dattam Labs (CC-BY-4.0) | 57 |
 | National Investigation Agency (nia.gov.in) | 22 |
 | Court copy supplied to the team | 12 |
 | India Code (indiacode.gov.in) | 11 |
 | Copy supplied by NIA | 7 |
-| Supreme Court of India (sci.gov.in) | 4 |
+| Supreme Court of India (sci.gov.in) | 5 |
 | India Code consolidated text as republished by WIPO Lex | 3 |
 | Delhi High Court, via the Indian High Court Judgments dataset by Dattam Labs (CC-BY-4.0) | 3 |
+| The court's own PDF, as hosted by livelaw.in | 2 |
 | verdictum.in (watermarked copy; the official copy was not located) | 1 |
 | Copy supplied to the team (verdictum.in, watermarked; official copy awaited) | 1 |
 | Ministry of Home Affairs (mha.gov.in), advisory of 17.10.2024 | 1 |
+| Delhi High Court (delhihighcourt.nic.in) | 1 |
+| The Supreme Court's signed record, as hosted by sabrangindia.in | 1 |
 
 Supreme Court and Delhi High Court judgments marked "Dattam Labs" come from the
 [Indian Supreme Court Judgments](https://registry.opendata.aws/indian-supreme-court-judgments/) and Indian High
